@@ -1,7 +1,10 @@
-html {
-    
+#page-wrap {
+    text-align: center;
+    margin: 0 auto;
 }
 
-.heading {
-    color: rgb(95, 19, 95);
+
+.display-4 {
+    color: white;
 }
+
